@@ -1,2 +1,2 @@
 # JavaApplication
-My All Java Applications Assignments
+Assignment of Multiple Choice Quiz
